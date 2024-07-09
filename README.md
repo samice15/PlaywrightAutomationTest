@@ -62,12 +62,14 @@ This project automates the checkout process on the Demo website using Playwright
 
 ## To run the test :
 
-1. Open your terminal and wtite
+1. Open your terminal and write
    npx playwright test Swaglab.spec.js
 
    
 ## To see the result :
 
-1. Open your terminal and wtite
+1. Open your terminal and write
    npx playwright show-report (For Playwright Report)
-   npx allure serve allure-results (For Allure Report)
+   
+   allure generate allure-results allure-report --clean (For Allure Report)
+   allure open allure-report (For Allure Report)
