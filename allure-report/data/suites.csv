@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Jul 07 22:21:04 BDT 2024","Sun Jul 07 22:21:07 BDT 2024","3188","chromium","NatureBest.spec.js","","","","Client App login",""
+"passed","Sun Jul 07 00:44:50 BDT 2024","Sun Jul 07 00:45:14 BDT 2024","24039","chromium","NatureBest.spec.js","","","","Nature best site log-in, Select product & Checkout",""
+"passed","Sat Jul 06 01:10:21 BDT 2024","Sat Jul 06 01:10:25 BDT 2024","3890","chromium","ArbreeSolution.spec.js","","","","Checkout an item",""
+"passed","Wed Jul 10 01:02:29 BDT 2024","Wed Jul 10 01:02:34 BDT 2024","4871","chromium","Swaglab.spec.js","","","","SwagLabs log-in, product select and checkout",""
